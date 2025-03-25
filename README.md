@@ -73,12 +73,15 @@ npm install
 
 # Run dev server
 npm run dev
+```
+---
 
 
-
-💬 About Me
+### 💬 About Me
 Developed by Amarat K.
 Student at Southeast Asia University (DTI)
 Email: amaratkos@hotmail.com
+
+
 
 
