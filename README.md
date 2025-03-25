@@ -61,7 +61,7 @@ A full-stack web application for managing personal friends list, built with **Re
 <img src="https://github.com/user-attachments/assets/811d3f44-5ead-4515-a127-ed9dee9a22c6" alt="SAU Friend Screenshot" width="600"/>
 
 
-> 📌 You can add screenshots to `./screenshots` folder and link them here
+
 
 ---
 
